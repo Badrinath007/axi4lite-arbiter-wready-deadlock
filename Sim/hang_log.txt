@@ -1,0 +1,5 @@
+# HUNG: simulation stuck waiting on dma_done/cpu_done at time 5045000
+# ** Note: $finish    : arbiter_integration_tb_buggy.v(150)
+#    Time: 5045 ns  Iteration: 0  Instance: /arbiter_integration_tb
+# 1
+# Break in NamedBeginStat watchdog at arbiter_integration_tb_buggy.v line 150
